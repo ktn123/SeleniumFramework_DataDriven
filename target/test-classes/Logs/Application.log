@@ -1,7 +1,0 @@
-0    [main] DEBUG devpinoyLogger  - Config file Loaded!!
-4    [main] DEBUG devpinoyLogger  - OR file Loaded!!
-7230 [main] DEBUG devpinoyLogger  - ChromeDriver created!!
-15687 [main] DEBUG devpinoyLogger  - URL Opened!!
-15768 [main] DEBUG devpinoyLogger  - Inside Login Test !!
-18459 [main] DEBUG devpinoyLogger  - 2nd test passed successfully..
-19639 [main] DEBUG devpinoyLogger  - Driver Quitted!!
