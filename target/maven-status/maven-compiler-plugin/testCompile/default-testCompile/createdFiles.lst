@@ -1,8 +1,0 @@
-com\orgName\rough\TestProperties.class
-com\orgName\base\TestBase.class
-com\orgName\testcases\BankManagerLoginTest.class
-com\orgName\testcases\AddCustomerTest.class
-com\orgName\utilities\ExtentManager.class
-com\orgName\utilities\TestUtil.class
-com\orgName\listners\CustomListeners.class
-com\orgName\utilities\ExcelReader.class
